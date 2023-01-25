@@ -1,0 +1,8 @@
+<theme>
+	<!--Basic-Detailed Missingart-->		
+	<view name="basic, detailed, video">
+		<image name="missing_art" extra="true">
+			<path>./../misc/missingart_def.png</path>
+		</image>
+	</view>
+</theme>

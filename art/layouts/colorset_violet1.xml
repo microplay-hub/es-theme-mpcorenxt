@@ -1,0 +1,22 @@
+<theme>
+	<!--SYSTEM VIEW-->	
+	<view name="system">
+		<!--system background color-->
+		<image name="system_background" extra="true">
+			<color>666699</color>
+		</image>
+	</view>
+	<!--SYSTEM VIEW END-->	
+	<!--DETAIL VIDEO VIEW-->	
+	<view name="basic, detailed, video">
+		<!--gamelist background color-->
+		<image name="gamelist_background" extra="true">
+			<color>666699</color>
+		</image>
+		<!--gamelist selector color-->
+		<textlist name="gamelist">
+			<selectorColor>666699</selectorColor>
+		</textlist>
+	</view>
+	<!--DETAIL VIDEO VIEW END-->
+</theme>

@@ -1,0 +1,10 @@
+<theme>
+	<!--GENERAL BGART SETTINGS-->	
+	<view name="basic, detailed, video">
+		<!--gamelist systembg image-->
+		<image name="gamelist_systembgart" extra="true">
+			<path>./../img_systembg/bgart_wonderswan.png</path>
+		</image>
+	</view>
+	<!--GENERAL BGART SETTINGS END-->
+</theme>

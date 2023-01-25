@@ -1,0 +1,23 @@
+<theme>
+<!--System helpsystem-->
+	<view name="system">
+		<image name="system_help" extra="true">
+			<path>./../help/help_snes_swap_system.png</path>
+			<zIndex>30</zIndex>
+		</image>
+		
+<!--hide default helpsystem-->
+		<helpsystem name="help">
+			<pos>2 2</pos>
+		</helpsystem>
+	</view>
+	
+<!--Gamelist helpsystem-->
+    <view name="basic, detailed, video">
+    	<image name="gamelist_help" extra="true">
+			<path>./../help/help_snes_swap_detail.png</path>
+			<zIndex>30</zIndex>
+		</image>
+	</view>
+
+</theme>
