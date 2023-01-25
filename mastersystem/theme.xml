@@ -1,0 +1,51 @@
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../mpcore-nxt.xml</include>
+    <include>./../art/layouts/colorset_blue1.xml</include>
+    <include>./../art/layouts/soundset_sega.xml</include>
+    <include>./../art/layouts/missingart_def.xml</include>
+    <include>./../art/layouts/systembg_sega.xml</include>
+	
+	<!--SYSTEM VIEW-->	
+	<view name="system">
+		<!--system description-->
+		<text name="system_description" extra="true">
+			<text>The Master System is a third-generation video game console that was manufactured and released by Sega in 1985 in Japan, 1986 in North America and 1987 in Europe. The Master System was released as a direct competitor to the Nintendo Entertainment System in the third videogame generation The SMS was technically superior to the NES, which predated its release significantly, but failed to overturn Nintendo's significant market share advantage in Japan and North America.</text>
+			
+		</text>
+		<!--system screenshots-->
+		<image name="screenshot_left" extra="true">
+			<path>./screenshot1.jpg</path>
+			
+		</image>
+		<image name="screenshot_right" extra="true">
+			<path>./screenshot2.jpg</path>
+			
+		</image>
+		<!--system carousel logo-->
+		<image name="logo">
+			<path>./system.svg</path>
+			 
+        </image>	
+		<!--controller systemsize-->
+		<image name="controller_sys" extra="true">
+            <path>./controller.svg</path>
+			 
+		</image>
+	</view>
+	<!--SYSTEM VIEW END-->	
+	<!--DETAIL VIDEO VIEW-->	
+	<view name="basic, detailed, video">
+	
+		<!--gamelist logo image-->
+		<image name="gamelist_logo" extra="true">
+            <path>./system.svg</path>  
+			
+		</image>
+		<!--gamelist controller image-->
+		<image name="controller_logo" extra="true">
+            <path>./controller.svg</path>  
+		</image>
+	</view>
+	<!--DETAIL VIDEO VIEW END-->
+</theme>
