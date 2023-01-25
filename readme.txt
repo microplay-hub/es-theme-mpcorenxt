@@ -1,8 +1,8 @@
 theme name:	mpcore-nxt
-version:		1.1 (01/2023)
+version:	1.1 (01/2023)
 author:		Liontek1985
-email:          liontek1985@outlook.at
-license:		creative commons CC-BY-NC-SA
+email:		liontek1985@outlook.at
+license:	creative commons CC-BY-NC-SA
 
 ***********************************
 
@@ -18,6 +18,10 @@ Fonts:
 
 BG-Art:
 	Figures - pngwing.com
+
+Screenshots:
+	skraper.net
+	video-games-museum.com
 
 Menu & Buttons:
 	Liontek1985
@@ -87,6 +91,7 @@ Currently this theme supports:
 =================================
 
 Supported resolutions:
-1920x1080 
-
+16:9 - 1920x1080 
+16:9 - 1280x760
+ 4:3 - 1024x768
 
