@@ -1,0 +1,19 @@
+<!--
+theme name:		mpcore-nxt
+version:		1.0
+author:			Liontek1985
+email:          liontek1985@outlook.at
+license:		creative commons CC-BY-NC-SA
+
+	font1.ttf - Square721 Cn BT
+	font2.ttf - SF Fendora
+	font3.ttf - CrashLanding BB
+	font4.ttf - HighlandGothicFLF
+-->
+
+<theme>
+    <formatVersion>3</formatVersion>
+
+    <include>./config.xml</include>
+
+</theme>

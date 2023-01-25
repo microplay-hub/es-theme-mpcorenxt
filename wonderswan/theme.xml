@@ -1,0 +1,51 @@
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../mpcore-nxt.xml</include>
+    <include>./../art/layouts/colorset_violet1.xml</include>
+    <include>./../art/layouts/soundset_def.xml</include>
+    <include>./../art/layouts/missingart_def.xml</include>
+    <include>./../art/layouts/systembg_wonderswan.xml</include>
+	
+	<!--SYSTEM VIEW-->	
+	<view name="system">
+		<!--system description-->
+		<text name="system_description" extra="true">
+			<text>The WonderSwan is a 16-bit fifth generation handheld game console designed by Koto Laboratory and manufactured by Bandai and released in 1999 only in Japan. With a monochrome screen, it displayed up to eight shades of gray, four more than the Game Boy, and had an extra set of buttons to allow it to be played in portrait and landscape orientations. Released five months after the Game Boy Color, Bandai insisted that its monochrome handheld could be successful based on the Game Boy's success over its competitors' with color displays. Originally, Bandai had planned to sell the WonderSwan in North America, but then decided against a Western release. The WonderSwan sold 1.55 million units.</text>
+			
+		</text>
+		<!--system screenshots-->
+		<image name="screenshot_left" extra="true">
+			<path>./screenshot1.jpg</path>
+			
+		</image>
+		<image name="screenshot_right" extra="true">
+			<path>./screenshot2.jpg</path>
+			
+		</image>
+		<!--system carousel logo-->
+		<image name="logo">
+			<path>./system.svg</path>
+			 
+        </image>	
+		<!--controller systemsize-->
+		<image name="controller_sys" extra="true">
+            <path>./controller.svg</path>
+			 
+		</image>
+	</view>
+	<!--SYSTEM VIEW END-->	
+	<!--DETAIL VIDEO VIEW-->	
+	<view name="basic, detailed, video">
+
+		<!--gamelist logo image-->
+		<image name="gamelist_logo" extra="true">
+            <path>./system.svg</path>  
+			
+		</image>
+		<!--gamelist controller image-->
+		<image name="controller_logo" extra="true">
+            <path>./controller.svg</path>  
+		</image>
+	</view>
+	<!--DETAIL VIDEO VIEW END-->
+</theme>

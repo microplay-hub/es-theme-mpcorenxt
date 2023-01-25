@@ -1,0 +1,51 @@
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../mpcore-nxt.xml</include>
+    <include>./../art/layouts/colorset_violet1.xml</include>
+    <include>./../art/layouts/soundset_def.xml</include>
+    <include>./../art/layouts/missingart_def.xml</include>
+    <include>./../art/layouts/systembg_wonderswan.xml</include>
+	
+	<!--SYSTEM VIEW-->	
+	<view name="system">
+		<!--system description-->
+		<text name="system_description" extra="true">
+			<text>The WonderSwan Color is a 16-bit fifth generation handheld game console that was released by Bandai in 2000 exclusively in Japan. Launched over one-and-a-half years after the monochrome WonderSwan, the handheld featured a color display and backward compatibility. However, Nintendo's release of its next generation Game Boy Advance dampened the WonderSwan Color's sales. A redesign titled SwanCrystal with a lower price and an improved LCD screen entered the market, but it also was not able to compete with the GBA. This forced Bandai to discontinue and exit the console hardware business. The total sales of the WonderSwan line is 3.5 million units.</text>
+			
+		</text>
+		<!--system screenshots-->
+		<image name="screenshot_left" extra="true">
+			<path>./screenshot1.jpg</path>
+			
+		</image>
+		<image name="screenshot_right" extra="true">
+			<path>./screenshot2.jpg</path>
+			
+		</image>
+		<!--system carousel logo-->
+		<image name="logo">
+			<path>./system.svg</path>
+			 
+        </image>	
+		<!--controller systemsize-->
+		<image name="controller_sys" extra="true">
+            <path>./controller.svg</path>
+			 
+		</image>
+	</view>
+	<!--SYSTEM VIEW END-->	
+	<!--DETAIL VIDEO VIEW-->	
+	<view name="basic, detailed, video">
+
+		<!--gamelist logo image-->
+		<image name="gamelist_logo" extra="true">
+            <path>./system.svg</path>  
+			
+		</image>
+		<!--gamelist controller image-->
+		<image name="controller_logo" extra="true">
+            <path>./controller.svg</path>  
+		</image>
+	</view>
+	<!--DETAIL VIDEO VIEW END-->
+</theme>
