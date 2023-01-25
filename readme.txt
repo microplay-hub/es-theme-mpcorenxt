@@ -1,16 +1,29 @@
-mpcorenxt THEME
-
-Theme designed by Liontek1985
-Version 1.0
-09/2019
-
+theme name:	mpcore-nxt
+version:		1.1 (01/2023)
+author:		Liontek1985
+email:          liontek1985@outlook.at
+license:		creative commons CC-BY-NC-SA
 
 ***********************************
 
 
 License
 
+Fonts:
+	
+	dafontfree.net - Square721 Cn BT
+	dafontfree.net - SF Fendora
+	dafontfree.net- HighlandGothicFLF
+	1001fonts.com - CrashLanding BB
 
+BG-Art:
+	Figures - pngwing.com
+
+Menu & Buttons:
+	Liontek1985
+
+Background:
+	Liontek1985
 
 
 ***********************************
