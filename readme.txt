@@ -20,34 +20,52 @@ Fonts:
 	1001fonts  - CrashLanding BB
 
 Graphics & Arts:
+	BG		- Liontek1985 (own Design)
 	Menus 	- Liontek1985 (own Design)
 	Buttons - Liontek1985 (own Design)
-	Figures - pngwing.com (edited png´s)
+	Figures - pngwing.com (edited)
 
 Screenshots:
-	Retro CDN 	(edited)
+	Retro CDN (edited)
 	skraper.net (edited)
 	video-games-museum.com (edited)
 
 System-Logos:
-	own Design - Liontek1985
-	ES-Themes  - Carbon
+	ES-Themes  - Liontek1985 (own Design)
+	ES-Themes  - Carbon	(es-theme-carbon)
 
 Controller-Logos:
-	own Design - Liontek1985
-	ES-Themes  - Carbon	
+	ES-Themes  - Liontek1985 (own Design)
+	ES-Themes  - Carbon	(es-theme-carbon)
+
+Sounds:
+	Soundsets	- freesound.org
+	Soundsets	- sounds-resource.com
 
 
 ***********************************
 
 Supported resolutions:
-* 1920x1080 - 16:9
-* 1280x760  - 16:9
-* 1024x768  - 4:3
+* 1920x1080 - 1080p - 16:9
+* 1280x760  -  720p - 16:9
+* 1024x768  -   XGA - 4:3 
 
 ***********************************
 
-Currently supported Systems: 106
+Full Changeable Colorset, Systembg, Soundart, Missingart for every system
+
+system/theme.xml
+
+include the predefined layouts from folder "/art/layouts/"
+-colorset_x.xml (colorset_blue1, colorset_red1, ...)
+-soundset_x.xml (soundset_arcarde, soundset_pce_tg16, ...)
+-missingart_x.xml (missingart_def, ...)
+-systembg_x.xml (systembg_msx, systembg_wonderswan, ...)
+
+
+***********************************
+
+Currently supported Systems: 108
 
 * 3do
 * 4do
@@ -68,7 +86,9 @@ Currently supported Systems: 106
 * Auto-Favorites
 * Auto-Lastplayed
 * Bbcmicro
+* C16
 * C64
+* C128
 * Channelf
 * Coco
 * Colecovision

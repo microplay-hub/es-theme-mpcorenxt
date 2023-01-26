@@ -1,6 +1,5 @@
 <!--
 theme name:		mpcore-nxt
-version:		1.2
 author:			Liontek1985
 email:          liontek1985@outlook.at
 -->
@@ -9,24 +8,45 @@ email:          liontek1985@outlook.at
     <formatVersion>3</formatVersion>
 --------------------------------------------	
 <!-- Choose your body Style -->	
-	<include>./art/layouts/body_nxt.xml</include>
+	<include>./art/layouts/body_nxt_169.xml</include>
 <!-- 
-OPTIONS: Body-MPCORENXT=body_nxt;.
+Design Options: 
+
+Design1: MPCORE-NXT
+(16:9)=body_nxt_169; (4:3)body_nxt_43.xml;
+
+Design2: Tekdora
+(16:9)=body_tek_169; (4:3)body_tek_43.xml;
+
 -->	
 --------------------------------------------
 <!-- Image Resolution - resolution optimizing-->
-	<include>./art/layouts/img_1080p.xml</include>
+	<include>./art/layouts/img_1080p-nxt.xml</include>
 
 <!-- 
-OPTIONS: 1920x1080=img_1080p; 1280x720=img_720p;.
+Resolution Options: 
+
+Design1: Body-Nxt
+1920x1080(16:9)=img_1080p-nxt; 1280x720(16:9)=img_720p-nxt; 1024x768(4:3)=img_xga-nxt;
+
+Design2: Tekdora
+1920x1080(16:9)=img_1080p-tek; 1280x720(16:9)=img_720p-tek;
+
 -->
 --------------------------------------------
 <!-- Choose your help system controller layout-->	
 	<include>./art/layouts/help_snes.xml</include> 
 
 <!-- 
-OPTIONS: help_x; help_x_swap;.
-(x)Options 8BITDO=snes; SNES=snes; XBOX-ONE=xone; XBOX-360=x360; PLAYSTATION=psx;.
+OPTIONS: help_x; help_x_swap;
+
+(x)Options 
+8BITDO		= snes; 
+SNES		= snes; 
+XBOX-ONE	= xone; 
+XBOX-360	= x360; 
+PLAYSTATION	= psx;
+
 (_swap) Button-Swap from AB to BA like ES
 -->
 --------------------------------------------
