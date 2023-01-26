@@ -1,0 +1,13 @@
+<theme>
+	<!--GENERAL SOUND SETTINGS-->	
+	<view name="basic, detailed, video">
+		<!--gamelist scroll sound-->
+		<textlist name="gamelist">
+			<scrollSound>./../sounds/sega_scroll.wav</scrollSound>
+		</textlist>
+	<sound name="launch">
+			<path>./../sounds/sega_launch.wav</path>
+	</sound>
+	<!--GENERAL SOUND SETTINGS END-->
+	</view>
+</theme>
