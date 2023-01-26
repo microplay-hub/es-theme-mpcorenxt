@@ -1,97 +1,158 @@
-theme name:	mpcore-nxt
-version:	1.1 (01/2023)
-author:		Liontek1985
-email:		liontek1985@outlook.at
-license:	creative commons CC-BY-NC-SA
+theme name:		mpcore-nxt
+version:		1.1 (01/2023)
+author:			Liontek1985
+email:			liontek1985@outlook.at
+Typ:			ES-Themes
+Format:			theme formatVersion 3
+license:		creative commons CC-BY-NC-SA
 
 ***********************************
-
 
 License
 
-Fonts:
-	
-	dafontfree.net - Square721 Cn BT
-	dafontfree.net - SF Fendora
-	dafontfree.net- HighlandGothicFLF
-	1001fonts.com - CrashLanding BB
+Code & Scripting
+	Code - Liontek1985 (own Code)
 
-BG-Art:
-	Figures - pngwing.com
+Fonts:	
+	dafontfree - Square721 Cn BT
+	dafontfree - SF Fendora
+	dafontfree - HighlandGothicFLF
+	1001fonts  - CrashLanding BB
+
+Graphics & Arts:
+	Menus 	- Liontek1985 (own Design)
+	Buttons - Liontek1985 (own Design)
+	Figures - pngwing.com (edited png´s)
 
 Screenshots:
-	skraper.net
-	video-games-museum.com
+	Retro CDN 	(edited)
+	skraper.net (edited)
+	video-games-museum.com (edited)
 
-Menu & Buttons:
-	Liontek1985
+System-Logos:
+	own Design - Liontek1985
+	ES-Themes  - Carbon
 
-Background:
-	Liontek1985
+Controller-Logos:
+	own Design - Liontek1985
+	ES-Themes  - Carbon	
 
 
 ***********************************
 
-Currently this theme supports:
+Supported resolutions:
+* 1920x1080 - 16:9
+* 1280x760  - 16:9
+* 1024x768  - 4:3
 
-* All Games
-* Favorites
-* Lastplayed
-* Collections
+***********************************
+
+Currently supported Systems: 106
+
+* 3do
+* 4do
+* Ags
 * Amiga
+* Amstradcpc
+* Apple
+* Apple2
 * Arcade
 * Atari 2600
 * Atari 5200
 * Atari 7800
-* Atari Lynx
 * Atari Jaguar
+* Atari Lynx
+* Atarist
+* Atomiswave
+* Auto-All Games
+* Auto-Favorites
+* Auto-Lastplayed
+* Bbcmicro
+* C64
+* Channelf
+* Coco
+* Colecovision
+* Custom-collections
+* Custom-fighting
+* Custom-jnr
+* Custom-kid
+* Custom-mario
+* Custom-racing
+* Custom-rpg
+* Custom-sonic
+* Daphne
+* Dragon32
 * Dreamcast
-* FBA
-* Famicom
-* Famicom Classic
-* Famicom Disk System
+* Fba
+* Fds (Famicom Disk System)
+* Fm7
 * Game & Watch
-* Sega Gamegear
+* Gamegear
 * Gameboy
 * Gameboy Advance
 * Gameboy Color
-* MAME
-* Sega Master System
-* Sega Megadrive
-* Sega Genesis
-* KODI
-* Nintendo 64
-* Nintedo DS
-* Neo-Geo
-* Neo-Geo Pocket Color
-* NES
-* NES Classic
-* PC (DosBox)
-* Pc Engine
-* Ports
+* GameCube
+* Genesis (MegaDrive)
+* Intellivision
+* Kodi
+* Mame
+* Mame-advmame
+* Mame-libretro
+* Mame-mame4all
+* Markiii
+* Master System
+* Megadrive
+* Megadrive-Japan
+* Msx
+* Msx2
+* n64 (Nintendo 64)
+* naomi (Sega Arcarde)
+* nds (Nintedo DS)
+* neogeo (Neo-Geo)
+* nes
+* Ngp (Neo-Geo Pocket)
+* Ngpc (Neo-Geo Pocket Color)
+* Odyssey2
+* PC88
+* PC98
+* PCE-CD
+* PC-Engine
+* Pcfx
 * Pokemini
+* Ports
+* PS2
 * PSP
-* Playstation
-* Retropie menu
+* PSP-Mini
+* psx (Playstation)
+* Residualvm
+* Retropie (Retropie menu)
+* Samcoupe
+* Satellaview
+* Saturn
+* SC-3000
 * ScummVM
-* Sega SG-1000
-* Sega 32x
-* Sega CD
+* Sega32x
+* SegaCD
+* SG-1000 (Sega)
 * SNES
-* SNES Classic
-* Super Famicom
-* Super Famicom Classic
-* Turbografx 16
+* SNESmsu1
+* Steam
+* sufami (Super Famicom)
+* Tg16 (Turbografx 16)
+* Tg-cd
+* Ti-99
+* trs80
 * Vectrex
-* Virtual Boy
+* Videopac
+* VirtualBoy
+* Wii (Nintendo Wii)
 * Wonderswan
 * Wonderswan Color
-* ZX Spectum
+* X1
+* X68000
+* ZMaschine
+* ZXSpectum
 
-=================================
 
-Supported resolutions:
-16:9 - 1920x1080 
-16:9 - 1280x760
- 4:3 - 1024x768
+
 
