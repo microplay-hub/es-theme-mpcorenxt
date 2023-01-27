@@ -1,8 +1,8 @@
 <theme>
     <formatVersion>3</formatVersion>
     <include>./../mpcore-nxt.xml</include>
-    <include>./../art/layouts/colorset_green1.xml</include>
-    <include>./../art/layouts/soundset_c64.xml</include>
+    <include>./../art/layouts/colorset_grey1.xml</include>
+    <include>./../art/layouts/soundset_def.xml</include>
     <include>./../art/layouts/missingart_def.xml</include>
     <include>./../art/layouts/systembg_def.xml</include>
 	
@@ -24,7 +24,7 @@
 		</image>
 		<!--system carousel logo-->
 		<image name="logo">
-			<path>./system.svg</path>
+			<path>./system.png</path>
 			 
         </image>	
 		<!--controller systemsize-->
@@ -38,7 +38,7 @@
 	<view name="basic, detailed, video">
 		<!--gamelist logo image-->
 		<image name="gamelist_logo" extra="true">
-            <path>./system.svg</path>  
+            <path>./system.png</path>  
 			
 		</image>
 		<!--gamelist controller image-->

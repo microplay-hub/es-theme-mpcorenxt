@@ -1,8 +1,8 @@
 <theme>
     <formatVersion>3</formatVersion>
     <include>./../mpcore-nxt.xml</include>
-    <include>./../art/layouts/colorset_green1.xml</include>
-    <include>./../art/layouts/soundset_c64.xml</include>
+    <include>./../art/layouts/colorset_grey1.xml</include>
+    <include>./../art/layouts/soundset_def.xml</include>
     <include>./../art/layouts/missingart_def.xml</include>
     <include>./../art/layouts/systembg_def.xml</include>
 	

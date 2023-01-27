@@ -1,16 +1,16 @@
 <theme>
     <formatVersion>3</formatVersion>
     <include>./../mpcore-nxt.xml</include>
-    <include>./../art/layouts/colorset_green1.xml</include>
-    <include>./../art/layouts/soundset_c64.xml</include>
+    <include>./../art/layouts/colorset_yellow1.xml</include>
+    <include>./../art/layouts/soundset_arcarde.xml</include>
     <include>./../art/layouts/missingart_def.xml</include>
-    <include>./../art/layouts/systembg_def.xml</include>
+    <include>./../art/layouts/systembg_arcarde3.xml</include>
 	
 	<!--SYSTEM VIEW-->	
 	<view name="system">
 		<!--system description-->
 		<text name="system_description" extra="true">
-			<text></text>
+			<text>HBMAME</text>
 			
 		</text>
 		<!--system screenshots-->
