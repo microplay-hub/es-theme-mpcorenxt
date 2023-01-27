@@ -1,16 +1,17 @@
 <theme>
     <formatVersion>3</formatVersion>
     <include>./../mpcore-nxt.xml</include>
-    <include>./../art/layouts/colorset_yellow1.xml</include>
-    <include>./../art/layouts/soundset_arcarde.xml</include>
+    <include>./../art/layouts/colorset_red1.xml</include>
+    <include>./../art/layouts/soundset_nintendo.xml</include>
     <include>./../art/layouts/missingart_def.xml</include>
-    <include>./../art/layouts/systembg_atomiswave.xml</include>
+    <include>./../art/layouts/systembg_nintendo.xml</include>
 	
 	<!--SYSTEM VIEW-->	
 	<view name="system">
 		<!--system description-->
 		<text name="system_description" extra="true">
-			<text>The Atomiswave is a custom arcade system board and cabinet from Sammy Corporation. It is based on Sega's NAOMI system board.</text>
+			<text></text>
+			<text></text>
 			
 		</text>
 		<!--system screenshots-->
@@ -36,9 +37,10 @@
 	<!--SYSTEM VIEW END-->	
 	<!--DETAIL VIDEO VIEW-->	
 	<view name="basic, detailed, video">
+
 		<!--gamelist logo image-->
 		<image name="gamelist_logo" extra="true">
-            <path>./systemlogo_atomiswave.png</path>  
+            <path>./system.svg</path>  
 			
 		</image>
 		<!--gamelist controller image-->
