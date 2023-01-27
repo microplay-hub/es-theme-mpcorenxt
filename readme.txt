@@ -1,5 +1,5 @@
 theme name:		mpcore-nxt
-version:		1.1 (01/2023)
+version:		1.2 (01/2023)
 author:			Liontek1985
 email:			liontek1985@outlook.at
 Typ:			ES-Themes
@@ -65,33 +65,53 @@ include the predefined layouts from folder "/art/layouts/"
 
 ***********************************
 
-Currently supported Systems: 108
+Currently supported Systems: 186
 
 * 3do
+* 3ds
 * 4do
+* Adam
+* Advision
 * Ags
 * Amiga
+* Amigacd32
+* Amiga500
+* Amiga 1200
+* Amiga4000
+* Amigacdtv
 * Amstradcpc
+* Apfm1000
 * Apple
 * Apple2
 * Arcade
+* Arcardia
+* Atari 800
 * Atari 2600
 * Atari 5200
 * Atari 7800
 * Atari Jaguar
+* Atari JaguarCD
 * Atari Lynx
 * Atarist
+* Atom
 * Atomiswave
 * Auto-All Games
 * Auto-Favorites
 * Auto-Lastplayed
 * Bbcmicro
 * C16
+* C20
 * C64
 * C128
+* Cdi
 * Channelf
 * Coco
 * Colecovision
+* C4Plus
+* CPS1
+* CPS2
+* CPS3
+* Creativision
 * Custom-collections
 * Custom-fighting
 * Custom-jnr
@@ -101,20 +121,36 @@ Currently supported Systems: 108
 * Custom-rpg
 * Custom-sonic
 * Daphne
+* Default
+* Desktop
+* Deviltionx
 * Dragon32
 * Dreamcast
+* Electron
 * Fba
 * Fds (Famicom Disk System)
 * Fm7
+* Fmtown
+* Gaelco
+* Gemate
 * Game & Watch
+* Gamecom
 * Gamegear
+* Gamepock
 * Gameboy
 * Gameboy Advance
 * Gameboy Color
 * GameCube
 * Genesis (MegaDrive)
+* Gmaster
+* Gx4000
+* hbmame
+* hikaru
 * Intellivision
 * Kodi
+* love
+* lutro
+* Macintosh
 * Mame
 * Mame-advmame
 * Mame-libretro
@@ -123,27 +159,47 @@ Currently supported Systems: 108
 * Master System
 * Megadrive
 * Megadrive-Japan
+* Megadrive-msu
+* misc
 * Msx
 * Msx2
+* Msxturbor
+* Model2
+* Model3
+* Moonlight
 * n64 (Nintendo 64)
+* n64dd (Nintendo 64)
+* namco
+* namco22
 * naomi (Sega Arcarde)
+* naomi2 (Sega Arcarde)
 * nds (Nintedo DS)
 * neogeo (Neo-Geo)
+* neogeo64
+* neogeocd
+* neogeomvs
 * nes
 * Ngp (Neo-Geo Pocket)
 * Ngpc (Neo-Geo Pocket Color)
 * Odyssey2
+* Oric
+* PC
 * PC88
 * PC98
 * PCE-CD
 * PC-Engine
 * Pcfx
+* Pet
+* Pico8
 * Pokemini
 * Ports
 * PS2
+* PS3
 * PSP
 * PSP-Mini
+* Psvita
 * psx (Playstation)
+* pv1000
 * Residualvm
 * Retropie (Retropie menu)
 * Samcoupe
@@ -151,26 +207,50 @@ Currently supported Systems: 108
 * Saturn
 * SC-3000
 * ScummVM
+* Scv
 * Sega32x
 * SegaCD
+* Seta
 * SG-1000 (Sega)
+* Sbg
 * SNES
-* SNESmsu1
+* SNES-msu
+* SNES-msu1
+* SNK
+* Socrates
+* Solarus
 * Steam
 * sufami (Super Famicom)
+* Supergrafx
+* Supervision
+* Supracan
+* Switch
+* Taito
+* Taitox
+* Tandy1k
+* tecmo
 * Tg16 (Turbografx 16)
 * Tg-cd
+* Thomson
 * Ti-99
+* Tic80
 * trs80
+* Tutor
 * Vectrex
+* Vic20
 * Videopac
 * VirtualBoy
 * Wii (Nintendo Wii)
+* WiiUIU (Nintendo WiiU)
+* Windows
 * Wonderswan
 * Wonderswan Color
 * X1
 * X68000
+* Xbox
+* Xbox360
 * ZMaschine
+* Zx81
 * ZXSpectum
 
 
