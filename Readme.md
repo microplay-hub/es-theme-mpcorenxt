@@ -17,9 +17,13 @@
 ![pic004](https://github.com/microplay-hub/mpcore-library/raw/main/Imagebase/_System/ES-System_mpcorenxt_det_ar43.jpg "ES-Detailview 4:3 1024x768")<br />
 <br />
 # MPCORE-NXT - changeable Helpsystem for many Controllers types
+-ES-Helpsystem Playstation Controller <br />
 ![pic005](https://github.com/microplay-hub/mpcore-library/raw/main/Imagebase/_System/ES-Helpsystem_psx_detail.png "ES-Helpsystem PSX")<br />
+-ES-Helpsystem SNES, 8Bitdo Controller <br />
 ![pic006](https://github.com/microplay-hub/mpcore-library/raw/main/Imagebase/_System/ES-Helpsystem_snes_detail.png "ES-Helpsystem SNES-8Bitdo")<br />
+-ES-Helpsystem Xbox360 Controller <br />
 ![pic007](https://github.com/microplay-hub/mpcore-library/raw/main/Imagebase/_System/ES-Helpsystem_x360_detail.png "ES-Helpsystem Xbox360")<br />
+-ES-Helpsystem Xbox-One Controller <br />
 ![pic008](https://github.com/microplay-hub/mpcore-library/raw/main/Imagebase/_System/ES-Helpsystem_xone_detail.png "ES-Helpsystem Xbox-One")<br />
 
 <br /><br />
