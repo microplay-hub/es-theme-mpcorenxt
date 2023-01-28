@@ -7,13 +7,14 @@
 - Changeable Resolution 1920x1080, 1280x760, 1024x768(4:3)<br />
 - Change the Settings in config.xml<br />
 <br /><br />
+
 # MPCORE-NXT - 16:9 - 1080p
 ![pic001](https://github.com/microplay-hub/mpcore-library/raw/main/Imagebase/_System/ES-System_mpcorenxt_sys_ar169.jpg "ES-Systemview 16:9 1080p")<br />
 ![pic002](https://github.com/microplay-hub/mpcore-library/raw/main/Imagebase/_System/ES-System_mpcorenxt_det_ar169.jpg "ES-Detailview 16:9 1080p")<br />
 <br />
 # MPCORE-NXT - 4:3 - 1024x768
 ![pic003](https://github.com/microplay-hub/mpcore-library/raw/main/Imagebase/_System/ES-System_mpcorenxt_sys_ar43.jpg "ES-Systemview 4:3 1024x768")<br />
-![pic004](https://github.com/microplay-hub/mpcore-library/raw/main/Imagebase/_System/ES-System_mpcorenxt_det_ar169.jpg "ES-Detailview 4:3 1024x768")<br />
+![pic004](https://github.com/microplay-hub/mpcore-library/raw/main/Imagebase/_System/ES-System_mpcorenxt_det_ar43.jpg "ES-Detailview 4:3 1024x768")<br />
 <br />
 # MPCORE-NXT - changeable Helpsystem for many Controllers types
 ![pic005](https://github.com/microplay-hub/mpcore-library/raw/main/Imagebase/_System/ES-Helpsystem_psx_detail.png "ES-Helpsystem PSX")<br />
@@ -21,7 +22,9 @@
 ![pic007](https://github.com/microplay-hub/mpcore-library/raw/main/Imagebase/_System/ES-Helpsystem_x360_detail.png "ES-Helpsystem Xbox360")<br />
 ![pic008](https://github.com/microplay-hub/mpcore-library/raw/main/Imagebase/_System/ES-Helpsystem_xone_detail.png "ES-Helpsystem Xbox-One")<br />
 
-<br /><br /><br />
+<br /><br />
+
+# Themes Details
 
 theme name:		mpcore-nxt<br />
 version:		1.2 (01/2023)<br />
@@ -31,9 +34,8 @@ Typ:			ES-Themes<br />
 Format:			theme formatVersion 3<br />
 license:		creative commons CC-BY-NC-SA<br />
 
-***********************************<br />
 
-License<br />
+# License<br />
 
 Code & Scripting<br />
 	Code - Liontek1985 (own Code)<br />
@@ -68,16 +70,13 @@ Sounds:<br />
 	Soundsets	- sounds-resource.com<br />
 <br />
 <br />
-***********************************<br />
-<br />
-Supported resolutions:<br />
+# Supported resolutions:<br />
 * 1920x1080 - 1080p - 16:9<br />
 * 1280x760  -  720p - 16:9<br />
 * 1024x768  -   XGA - 4:3 <br />
 <br />
-***********************************<br />
 <br />
-Full Changeable Colorset, Systembg, Soundart, Missingart for every system<br />
+# Full Changeable Colorset, Systembg, Soundart, Missingart for every system<br />
 <br />
 system/theme.xml<br />
 <br />
@@ -88,9 +87,9 @@ include the predefined layouts from folder "/art/layouts/"<br />
 -systembg_x.xml (systembg_msx, systembg_wonderswan, ...)<br />
 <br />
 <br />
-***********************************<br />
 <br />
-Currently supported Systems: 186<br />
+
+# Currently supported Systems: 186 <br />
 <br />
 * 3do
 * 3ds
