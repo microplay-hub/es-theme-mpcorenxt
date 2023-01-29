@@ -21,7 +21,7 @@ Design2: Tekdora
 -->	
 --------------------------------------------
 <!-- Image Resolution - resolution optimizing-->
-	<include>./art/layouts/img_1080p-nxt.xml</include>
+	<include>./art/layouts/img_720p-nxt.xml</include>
 
 <!-- 
 Resolution Options: 
