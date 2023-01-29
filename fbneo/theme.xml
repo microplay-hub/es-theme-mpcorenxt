@@ -1,0 +1,51 @@
+<theme>
+    <formatVersion>3</formatVersion>
+    <include>./../mpcore-nxt.xml</include>
+    <include>./../art/layouts/colorset_yellow1.xml</include>
+    <include>./../art/layouts/soundset_arcarde.xml</include>
+    <include>./../art/layouts/missingart_def.xml</include>
+    <include>./../art/layouts/systembg_arcarde2.xml</include>
+	
+	<!--SYSTEM VIEW-->	
+	<view name="system">
+		<!--system description-->
+		<text name="system_description" extra="true">
+			<text>Final Burn Neo is a Multiple Arcade Emulator most popular for emulating Neo-Geo, Capcom, Konami, and Cave games.</text>
+			
+		</text>
+		<!--system screenshots-->
+		<image name="screenshot_left" extra="true">
+			<path>./screenshot1.jpg</path>
+			
+		</image>
+		<image name="screenshot_right" extra="true">
+			<path>./screenshot2.jpg</path>
+			
+		</image>
+		<!--system carousel logo-->
+		<image name="logo">
+			<path>./system.svg</path>
+			 
+        </image>	
+		<!--controller systemsize-->
+		<image name="controller_sys" extra="true">
+            <path>./controller.svg</path>
+			 
+		</image>
+	</view>
+	<!--SYSTEM VIEW END-->	
+	<!--DETAIL VIDEO VIEW-->	
+	<view name="basic, detailed, video">
+
+		<!--gamelist logo image-->
+		<image name="gamelist_logo" extra="true">
+            <path>./system.svg</path>  
+			
+		</image>
+		<!--gamelist controller image-->
+		<image name="controller_logo" extra="true">
+            <path>./controller.svg</path>  
+		</image>
+	</view>
+	<!--DETAIL VIDEO VIEW END-->
+</theme>
