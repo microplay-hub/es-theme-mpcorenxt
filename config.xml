@@ -1,14 +1,14 @@
 <!--
 theme name:		mpcore-nxt
 author:			Liontek1985
-email:          liontek1985@outlook.at
+email:          	liontek1985@outlook.at
 -->
 
 <theme>
     <formatVersion>3</formatVersion>
 --------------------------------------------	
 <!-- Choose your body Style -->	
-	<include>./art/layouts/body_nxt_169.xml</include>
+	<include>./art/layouts/body_nxt_43.xml</include>
 <!-- 
 Design Options: 
 
@@ -21,7 +21,7 @@ Design2: Tekdora
 -->	
 --------------------------------------------
 <!-- Image Resolution - resolution optimizing-->
-	<include>./art/layouts/img_1080p-nxt.xml</include>
+	<include>./art/layouts/img_xga-nxt.xml</include>
 
 <!-- 
 Resolution Options: 
