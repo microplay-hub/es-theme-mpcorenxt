@@ -36,7 +36,7 @@ author:			Liontek1985<br />
 email:			liontek1985@outlook.at<br />
 Typ:			ES-Themes<br />
 Format:			theme formatVersion 3<br />
-license:		creative commons CC-BY-NC-SA<br />
+license:		creative commons CC BY-NC-SA 4.0<br />
 
 
 # License<br />
