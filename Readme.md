@@ -26,7 +26,20 @@
 -ES-Helpsystem Xbox-One Controller <br />
 ![pic008](https://github.com/microplay-hub/mpcore-library/raw/main/Imagebase/_System/ES-Helpsystem_xone_detail.png "ES-Helpsystem Xbox-One")<br />
 
-<br /><br />
+
+# MP-Themes RetroPie-Script
+</br>You will find the MP-Themes script on https://github.com/microplay-hub/mpthemes for RetroPie
+
+## Install instructions</br>
+```shell
+cd /home/pi/RetroPie-Setup/scriptmodules/supplementary
+wget https://github.com/microplay-hub/mpthemes/raw/master/mp-themes.sh
+sudo /home/pi/RetroPie-Setup/retropie_setup.sh
+```
+</br>
+Install the Modul MP-Themes</br>
+<img src="https://github.com/microplay-hub/mpcore-library/raw/main/Imagebase/_Moduls/mpthemes-modul.png" width="400" height="240"><img src="https://github.com/microplay-hub/mpcore-library/raw/main/Imagebase/_Moduls/mpthemes-modul-cf.png" width="400" height="240">
+<br />
 
 # Themes Details
 
