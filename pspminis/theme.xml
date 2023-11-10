@@ -24,7 +24,7 @@
 		</image>
 		<!--system carousel logo-->
 		<image name="logo">
-			<path>./system.svg</path>
+			<path>./system.png</path>
 			 
         </image>	
 		<!--controller systemsize-->
@@ -39,7 +39,7 @@
 
 		<!--gamelist logo image-->
 		<image name="gamelist_logo" extra="true">
-            <path>./system.svg</path>  
+            <path>./system.png</path>  
 			
 		</image>
 		<!--gamelist controller image-->

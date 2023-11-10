@@ -31,7 +31,7 @@
 # Themes Details
 
 theme name:		mpcore-nxt<br />
-version:		1.2 (01/2023)<br />
+version:		1.4 (10/2023)<br />
 author:			Liontek1985<br />
 email:			liontek1985@outlook.at<br />
 Typ:			ES-Themes<br />
