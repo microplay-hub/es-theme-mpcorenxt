@@ -1,5 +1,5 @@
 theme name:		mpcore-nxt
-version:		1.2 (01/2023)
+version:		1.4 (10/2023)
 author:			Liontek1985
 email:			liontek1985@outlook.at
 Typ:			ES-Themes
