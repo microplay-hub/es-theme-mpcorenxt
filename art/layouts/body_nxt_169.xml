@@ -360,15 +360,6 @@
 			<origin>0 0</origin>
 		</text>
 
-
-<!--Video-->
-		<video name="md_video">
-			<pos>0.19 0.42</pos>
-			<maxSize>0.340 0.340</maxSize>
-			
-			<zIndex>10</zIndex>
-		</video>
-
 <!--character-->
 		<text name="character" extra="true">
 			<pos>-1 -1</pos>
@@ -396,15 +387,22 @@
 <!--Video-->
 	<view name="video">
     	<video name="md_video">
+			<pos>0.19 0.42</pos>
+			<maxSize>0.340 0.340</maxSize>
+			<zIndex>11</zIndex>
 			<showSnapshotNoVideo>true</showSnapshotNoVideo>
 			<showSnapshotDelay>true</showSnapshotDelay>
 			<delay>2</delay>			
 		</video>
 		<image name="md_marquee">
-			<pos>2 2</pos>
+			<pos>0.19 0.42</pos>
+			<maxSize>0.340 0.340</maxSize>
+			<zIndex>11</zIndex>
 		</image>
 		<image name="md_image">
-			<pos>2 2</pos>
+			<pos>0.19 0.42</pos>
+			<maxSize>0.340 0.340</maxSize>
+			<zIndex>11</zIndex>
 		</image>
 		
 	</view>
