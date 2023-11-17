@@ -393,7 +393,6 @@
 			<pos>0.812 0.338</pos>
 			<origin>0.5 0.5</origin>
 			<maxSize>0.325 0.488</maxSize>
-			
 			<zIndex>12</zIndex>
 			<showSnapshotNoVideo>true</showSnapshotNoVideo>
 			<showSnapshotDelay>true</showSnapshotDelay>
@@ -403,17 +402,17 @@
 			<pos>0.812 0.338</pos>
 			<origin>0.5 0.5</origin>
 			<maxSize>0.325 0.488</maxSize>
-			
 			<zIndex>10</zIndex>
-		</image>
+		</image>		
+	</view>
+<!--Imageview-->	
+	<view name="basic, detailed, video">
 		<image name="md_image">
 			<pos>0.812 0.338</pos>
 			<origin>0.5 0.5</origin>
 			<maxSize>0.325 0.488</maxSize>
-			
 			<zIndex>11</zIndex>
 		</image>
-		
 	</view>
 
 </theme>
